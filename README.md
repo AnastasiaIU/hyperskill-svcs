@@ -6,7 +6,7 @@ Implemented commands at this project:
 --help - prints the help page;  
 config - sets or outputs the name of a commit author;  
 add - adds a file to the list of tracked files or outputs this list;  
-log - shows commit logs;
+log - shows commit logs;  
 commit - saves file changes and the author name;  
 checkout - allows you to switch between commits and restore a previous file state.  
 
